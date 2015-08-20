@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(name='pyripple',
-      version='0.1',
+      version='0.0.1',
       description='Python package for data analysis of the Ripple peer-to-peer network',
       url='http://github.com/gip/pyripple',
       author='Gilles Pirio',
